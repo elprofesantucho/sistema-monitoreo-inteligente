@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Datos y archivos temporales
+*.csv
+*.json
+dashboard_streamlit/data/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
