@@ -1,29 +1,16 @@
 ﻿# Sistema de Monitoreo Inteligente - EEST N14
 
-##  Descripción
-Sistema automatizado de riego y control ambiental con ESP32
+##  Video Demostrativo
+[![Ver Video](https://img.youtube.com/vi/v_t1-79nYMA/0.jpg)](https://www.youtube.com/watch?v=v_t1-79nYMA)
 
-##  Componentes
-- **Microcontrolador**: ESP32
-- **Sensores**: DHT22 (temperatura/humedad) + 4 sensores suelo
-- **Pantalla**: TFT ST7789 240x240
-- **Actuadores**: Puente H doble para motores
-- **Dashboard**: Streamlit para monitoreo remoto
+** [Ver Video Completo en YouTube](https://www.youtube.com/watch?v=v_t1-79nYMA)**
+
+##  Descripción
+Sistema de riego automático con ESP32, sensores DHT22, 4 sensores suelo, pantalla TFT y dashboard Streamlit.
 
 ##  Uso Rápido
+- \.\run-dashboard.bat\ - Ejecutar dashboard
+- \.\git-update.bat\ - Actualizar cambios
+- \.\deploy.bat\ - Despliegue completo
 
-### Primera vez:
-1. Ejecutar `deploy.bat` y elegir opción 1
-2. Crear repositorio en GitHub
-3. Ejecutar comandos que muestra el script
-
-### Actualizar cambios:
-- Ejecutar `deploy.bat` (opción 2) O
-- Ejecutar `git-update.bat`
-
-### Ejecutar Dashboard:
-- Ejecutar `deploy.bat` (opción 3) O  
-- Ejecutar `run-dashboard.bat`
-
----
-*Desarrollado por EEST N14 - Sistema de Monitoreo Inteligente*
+*Desarrollado por EEST N14 - [Ver Video](https://youtu.be/v_t1-79nYMA)*
